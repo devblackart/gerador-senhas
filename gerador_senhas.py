@@ -141,7 +141,5 @@ if __name__ == "__main__":
 
 
 
-## Apresentação
-https://drive.google.com/drive/folders/19h69LuwsSSRnLfGMWs1XWlDu_PKj99A-?usp=sharing   ( !!! Abaixar volume !!! )
-## Apresentação
+
 
